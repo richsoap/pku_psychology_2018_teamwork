@@ -1,0 +1,2 @@
+# pku_psychology_2018_teamwork
+爱的心理学期末作业
