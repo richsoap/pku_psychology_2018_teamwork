@@ -1,0 +1,95 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 2.6 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{布雷姆2010爱情心理学}{misc}{}
+  \name{author}{2}{}{%
+    {{}%
+     {布雷姆}{�.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {米勒}{�.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {北京: 人民邮电出版社}%
+  }
+  \strng{namehash}{��1}
+  \strng{fullhash}{��1}
+  \field{labelyear}{2010}
+  \field{sortinit}{�}
+  \field{title}{爱情心理学}
+  \field{year}{2010}
+\endentry
+
+\entry{github}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {李侑性，李旭坤，杨庆龙}{�.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{�1}
+  \strng{fullhash}{�1}
+  \field{sortinit}{�}
+  \field{howpublished}{\url{https://github.com/richsoap/pku_psychology_2018_teamwork}}
+  \field{title}{爱的心理学期末论文}
+\endentry
+
+\entry{陈家鼎2015数理统计学讲义}{book}{}
+  \name{author}{4}{}{%
+    {{}%
+     {陈家鼎}{�.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {孙山泽}{�.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {李东风}{�.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {刘力平}{�.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {高等教育出版社}%
+  }
+  \strng{namehash}{�+1}
+  \strng{fullhash}{����1}
+  \field{labelyear}{2015}
+  \field{sortinit}{�}
+  \field{title}{数理统计学讲义}
+  \field{year}{2015}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput
